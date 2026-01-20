@@ -1,4 +1,4 @@
-package loops;
+package loops.pattern;
 public class naturalNumPyr {
     public static void main(String args[]){
         int n = 5;

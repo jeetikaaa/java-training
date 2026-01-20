@@ -1,4 +1,4 @@
-package loops;
+package loops.pattern;
 public class invHalfPyrNum {
     public static void main(String args[]){
         int n = 5 ; 

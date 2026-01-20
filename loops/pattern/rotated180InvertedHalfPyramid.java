@@ -1,4 +1,4 @@
-package loops;
+package loops.pattern;
 public class rotated180InvertedHalfPyramid {
     public static void main(String args[]){
         int n = 4;

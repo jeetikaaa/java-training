@@ -1,4 +1,4 @@
-package loops;
+package loops.pattern;
 import java.util.*;
 public class soildRec {
     public static void main (String args[]){
